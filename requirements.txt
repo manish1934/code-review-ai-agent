@@ -1,7 +1,6 @@
 langchain-groq
+langchain-core
 langchain
-langchain-community
-sentence-transformers
 python-dotenv
-pypdf
-faiss-cpu
+streamlit
+groq
