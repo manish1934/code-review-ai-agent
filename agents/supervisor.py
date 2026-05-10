@@ -1,5 +1,5 @@
 from langchain_groq import ChatGroq
-from langchain.prompts import ChatPromptTemplate
+from langchain_core.prompts import ChatPromptTemplate
 from agents.bug_detector import run_bug_detector
 from agents.security_analyst import run_security_analyst
 from agents.optimizer import run_optimizer
